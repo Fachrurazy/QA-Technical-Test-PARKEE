@@ -1,0 +1,12 @@
+{
+    "dataValid": {
+        "firstName" : "Jitest",
+        "lastName" : "Satu",
+        "postalCode" : "16914"
+    },
+    "dataInvalid": {
+        "firstName" : "Jitest",
+        "lastName" : "Satu",
+        "postalCode" : "satuduatiga"
+    }
+}

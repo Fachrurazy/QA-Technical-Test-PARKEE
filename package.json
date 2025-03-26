@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "cypress": "^14.2.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+  "test-login": "cypress run --spec 'cypress/e2e/login-pages/*.cy.js'",
+  "test-inventory": "cypress run --spec 'cypress/e2e/inventory-pages/*.cy.js'",
+  "test-cart": "cypress run --spec 'cypress/e2e/cart-pages/*.cy.js'",
+  "test-checout": "cypress run --spec 'cypress/e2e/checkout-pages/*.cy.js'",
+  "test-all": "cypress run --spec 'cypress/e2e/**/*.cy.js'"
+}
+}
