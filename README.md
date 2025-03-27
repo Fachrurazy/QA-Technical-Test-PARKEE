@@ -16,3 +16,6 @@ HOW TO RUN TEST CASE
 
 5. Run All Testcase
 - npm run test:all
+
+6. Run Test API
+- npm run test:api
