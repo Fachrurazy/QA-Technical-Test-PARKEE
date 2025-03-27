@@ -8,6 +8,7 @@
   "test-inventory": "cypress run --spec 'cypress/e2e/inventory-pages/*.cy.js'",
   "test-cart": "cypress run --spec 'cypress/e2e/cart-pages/*.cy.js'",
   "test-checout": "cypress run --spec 'cypress/e2e/checkout-pages/*.cy.js'",
-  "test-all": "cypress run --spec 'cypress/e2e/**/*.cy.js'"
+  "test-all": "cypress run --spec 'cypress/e2e/**/*.cy.js'",
+  "test-api": "cypress run --spec 'cypress/e2e/api/*.cy.js'"
 }
 }
